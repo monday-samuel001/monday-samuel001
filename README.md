@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./github-banner.png" width="100%">
+  <img src="github-banner.png" alt="Monday Samuel Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Monday Samuel
