@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./images/github-banner.png" width="100%">
-</p>
-
 # 👋 Hi, I'm Monday Samuel
 
 ## Cloud & DevOps Engineer
